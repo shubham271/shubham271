@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shubham271
-- 👀 I’m interested in Scripting,Photography & video Editing
+- 👀 I’m interested in scripting, data and analytics, photography & video editing
 - 🌱 I’m currently learning API and its integration.
-- 💞️ I’m looking to collaborate on shell scripting, Data analytics and visualisation. 
+- 💞️ I’m looking to collaborate on shell scripting, data analytics and visualisation. 
 - 📫 How to reach me - shubhamsrivastava271@gmail.com
 
 <!---
