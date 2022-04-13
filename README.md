@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shubham271
+- 👋 Hi, I’m Shubham Srivastava
 - 👀 I’m interested in scripting, data and analytics, photography & video editing
 - 🌱 I’m currently learning API and its integration.
 - 💞️ I’m looking to collaborate on shell scripting, data analytics and visualisation. 
