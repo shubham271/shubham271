@@ -1,6 +1,6 @@
- # Hey, I'm Shubham Srivastava 👋                                                                                                              
+ # Hey, I'm Shubham  👋                                                                                                              
                                                                                                                                                
- **Data Engineer** based in Hobart, Tasmania — building reliable data pipelines, streaming systems, and infrastructure that just works.        
+ **Data Engineer**  — building reliable data pipelines, streaming systems, and infrastructure that just works.        
                                                                                                                                                
  I enjoy working across the full data stack — from ingestion and transformation to monitoring and observability. I'm equally comfortable       
  writing Python, SQL, or Shell scripts to get data where it needs to go.                                                                       
